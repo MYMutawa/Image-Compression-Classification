@@ -1,6 +1,6 @@
 # EE 413 Project: Image Compression and Classification with Deep Learning
 
-This project is part of the EE 413 - Applied Digital Signal Processing course at KFUPM (Spring 2025). It focuses on combining **wavelet-based image compression**, **compressed sensing**, and **deep learning** to analyze the effects of compression on image classification performance using the Mini-ImageNet dataset.
+This project is part of the EE 413 - foucsing on combining **wavelet-based image compression**, **compressed sensing**, and **deep learning** to analyze the effects of compression on image classification performance using the Mini-ImageNet dataset.
 
 ---
 
